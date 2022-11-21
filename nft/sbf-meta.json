@@ -1,0 +1,8 @@
+{
+  "name": "Sammy Bigtime Fraudman Quotes",
+  "description": "This nft collection records some of SBF's famous quotes, in case he removes the tweets at a later date",
+  "image": "https://fr33expression.github.io/sbf/assets/sbf.png",
+  "external_link": "https://fr33expression.github.io/sbf/index.html",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "ton addy"
+}
